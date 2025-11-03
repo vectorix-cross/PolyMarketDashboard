@@ -195,4 +195,3 @@ MIT License - feel free to use this project for your own purposes.
 
 - Built with data from [Polymarket](https://polymarket.com)
 - Designed for the Polymarket team and community
-- Special thanks to the Replit team for the development platform
