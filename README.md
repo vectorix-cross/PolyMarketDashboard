@@ -1,6 +1,10 @@
 # Polymarket Dashboard
 
-A production-grade analytics dashboard for Polymarket prediction markets. Built for the Polymarket team and community to visualize real-time market data with a beautiful, modern interface.
+Analytics dashboard for Polymarket: live Gamma markets, volume and liquidity charts, watchlists, and price alerts.
+
+Maintained by **Vectorix** (`vectorix-cross`) · [vanjasretenovic4@gmail.com](mailto:vanjasretenovic4@gmail.com) · Telegram [@vectoris_corss](https://t.me/vectoris_corss)
+
+Repo: [github.com/vectorix-cross/PolyMarketDashboard](https://github.com/vectorix-cross/PolyMarketDashboard)
 
 ## Features
 
@@ -77,8 +81,8 @@ A production-grade analytics dashboard for Polymarket prediction markets. Built 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/pm-intelligence.git
-cd pm-intelligence
+git clone https://github.com/vectorix-cross/PolyMarketDashboard.git
+cd PolyMarketDashboard
 ```
 
 2. Install dependencies:
