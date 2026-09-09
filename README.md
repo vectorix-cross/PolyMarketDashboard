@@ -1,10 +1,19 @@
-# Polymarket Dashboard
+# Vectorix Polymarket dashboard (Gamma Analytics)
 
-Analytics dashboard for Polymarket: live Gamma markets, volume and liquidity charts, watchlists, and price alerts.
+**Vectorix (`vectorix-cross`)** — React / TypeScript desk for scanning Polymarket: volume, liquidity, categories, watchlist, and price alerts.
 
-Maintained by **Vectorix** (`vectorix-cross`) · [vanjasretenovic4@gmail.com](mailto:vanjasretenovic4@gmail.com) · Telegram [@vectoris_corss](https://t.me/vectoris_corss)
+**Live:** [https://polymarketanalytics.com/](https://polymarketanalytics.com/)
 
-Repo: [github.com/vectorix-cross/PolyMarketDashboard](https://github.com/vectorix-cross/PolyMarketDashboard)
+Gamma is the public market catalog. This app polls it, caches on the server, and draws category mix, 24h volume, and closing-soon boards. Watchlists and alerts persist in the browser (LocalStorage). No wallet, no custody.
+
+| Channel | Link |
+|---------|------|
+| **Email** | [vanjasretenovic4@gmail.com](mailto:vanjasretenovic4@gmail.com) |
+| **Telegram** | [@vectoris_corss](https://t.me/vectoris_corss) |
+| **Discord** | [vectorix-cross](https://discord.com/users/775389898794336316) |
+| **X** | [@vectorix_cross](https://x.com/vectorix_cross) |
+| **GitHub** | [vectorix-cross/PolyMarketDashboard](https://github.com/vectorix-cross/PolyMarketDashboard) |
+| **Portfolio** | [Featured projects](https://github.com/vectorix-cross/portfolio) |
 
 ## Features
 
@@ -197,5 +206,4 @@ MIT License - feel free to use this project for your own purposes.
 
 ## Acknowledgments
 
-- Built with data from [Polymarket](https://polymarket.com)
-- Designed for the Polymarket team and community
+Public market data from [Polymarket](https://polymarket.com) Gamma. Custom screens, alerts webhooks, or a white-label desk: use the contact table.
