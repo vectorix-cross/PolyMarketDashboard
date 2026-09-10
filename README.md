@@ -1,4 +1,6 @@
 # Vectorix Polymarket dashboard (Gamma Analytics)
+**Live portfolio:** [https://portfolio.vanjasretenovic4.workers.dev/](https://portfolio.vanjasretenovic4.workers.dev/)
+
 
 **Vectorix (`vectorix-cross`)** — React / TypeScript desk for scanning Polymarket: volume, liquidity, categories, watchlist, and price alerts.
 
